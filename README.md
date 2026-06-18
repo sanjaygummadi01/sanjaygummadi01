@@ -237,7 +237,7 @@ Completed a Web Technologies internship focused on core front-end development.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanjaygummadi01&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-trophies.vercel.app/?username=sanjaygummadi01&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
